@@ -1,4 +1,4 @@
-<p align="center"><img src="../brand/banner.png" alt="opengeoip" width="640"></p>
+<p align="center"><img src="../brand/banner.png" alt="OpenGeoIP" width="640"></p>
 
 Free IP geolocation and ASN databases, rebuilt every day from public data only: the internet registries, BGP routes seen by RIPE RIS, RPKI, and the geofeeds operators publish for their own networks. The files are in the MaxMind DB format and work as drop-in replacements for GeoLite2.
 
